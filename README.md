@@ -6,6 +6,7 @@
   * Update captcha
 * 2024-12-23 -- 1.0.2
   * Update captcha
-
+* 2025-5-04 -- 1.0.7
+  * Update apikey buster, fix selector next page, implementation re attempt flow 
 
 
