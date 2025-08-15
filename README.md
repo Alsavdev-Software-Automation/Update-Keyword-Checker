@@ -8,5 +8,6 @@
   * Update captcha
 * 2025-5-04 -- 1.0.7
   * Update apikey buster, fix selector next page, implementation re attempt flow 
-
+* 2025-8-15 -- 1.1.0
+  * Fix buster
 
