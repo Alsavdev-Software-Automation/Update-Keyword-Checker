@@ -10,4 +10,5 @@
   * Update apikey buster, fix selector next page, implementation re attempt flow 
 * 2025-8-15 -- 1.1.0
   * Fix buster
-
+* 2025-8-22 -- 1.1.1
+  * Fix buster & update selector ping
