@@ -12,3 +12,7 @@
   * Fix buster
 * 2025-8-22 -- 1.1.1
   * Fix buster & update selector ping
+* 2026-03-06 -- 1.1.2
+  * Update Architecture
+  * Fix Bug match target url
+  * New UI
